@@ -21,7 +21,7 @@ RUN apt-get update && \
 #COPY cv-recommendations-dashboard ./dashboard
 
 # Install Python dependencies
-RUN pip install --no-cache-dir -r server/requirements.txt
+RUN pip install --no-cache-dir -r requirements.txt
 
 
 
