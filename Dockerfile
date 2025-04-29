@@ -17,11 +17,11 @@ RUN apt-get update && \
 
 
 # Copy both projects
-#COPY cv-recommendations-server ./server
+COPY . .
 #COPY cv-recommendations-dashboard ./dashboard
 
 # Install Python dependencies
-RUN pip install --no-cache-dir -r requirements.txt
+RUN pip install --no-cache-dir -r ./requirements.txt
 
 
 
