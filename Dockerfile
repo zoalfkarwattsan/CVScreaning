@@ -17,7 +17,7 @@ RUN apt-get update && \
 
 
 # Copy both projects
-COPY cv-recommendations-server ./server
+#COPY cv-recommendations-server ./server
 #COPY cv-recommendations-dashboard ./dashboard
 
 # Install Python dependencies
