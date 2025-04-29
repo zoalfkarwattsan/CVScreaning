@@ -1,0 +1,238 @@
+{
+    "HR": [
+        {
+            "Job Title": "HR Manager",
+            "Key Skills": [
+                "Recruitment",
+                "Employee Relations",
+                "Payroll",
+                "Performance Management",
+                "Labor Law",
+                "Conflict Resolution",
+                "Onboarding"
+            ]
+        },
+        {
+            "Job Title": "Talent Acquisition Specialist",
+            "Key Skills": [
+                "Sourcing",
+                "Interviewing",
+                "Onboarding",
+                "ATS",
+                "Candidate Screening",
+                "Networking"
+            ]
+        },
+        {
+            "Job Title": "HR Coordinator",
+            "Key Skills": [
+                "Scheduling",
+                "Employee Records",
+                "Communication",
+                "HRIS",
+                "Benefits Administration"
+            ]
+        }
+    ],
+    "INFORMATION-TECHNOLOGY": [
+        {
+            "Job Title": "Systems Administrator",
+            "Key Skills": [
+                "Network Security",
+                "Backup",
+                "Linux",
+                "Windows Server",
+                "Firewall",
+                "VPN",
+                "SQL"
+            ]
+        },
+        {
+            "Job Title": "Software Developer",
+            "Key Skills": [
+                "Java",
+                "Python",
+                "C#",
+                "Agile",
+                "Git",
+                "REST APIs",
+                "Unit Testing"
+            ]
+        },
+        {
+            "Job Title": "Data Analyst",
+            "Key Skills": [
+                "SQL",
+                "Excel",
+                "Tableau",
+                "Python",
+                "Data Visualization",
+                "Statistics"
+            ]
+        }
+    ],
+    "ADVOCATE": [
+        {
+            "Job Title": "Legal Advisor",
+            "Key Skills": [
+                "Contract Law",
+                "Negotiation",
+                "Legal Research",
+                "Compliance",
+                "Litigation",
+                "Risk Assessment"
+            ]
+        },
+        {
+            "Job Title": "Paralegal",
+            "Key Skills": [
+                "Document Preparation",
+                "Case Management",
+                "Legal Writing",
+                "Research",
+                "Client Communication"
+            ]
+        },
+        {
+            "Job Title": "Corporate Lawyer",
+            "Key Skills": [
+                "Mergers & Acquisitions",
+                "Corporate Governance",
+                "Due Diligence",
+                "Regulatory Compliance",
+                "Contract Drafting",
+                "Legal Opinion"
+            ]
+        }
+    ],
+    "SALES": [
+        {
+            "Job Title": "Sales Manager",
+            "Key Skills": [
+                "Lead Generation",
+                "CRM",
+                "Negotiation",
+                "Customer Service",
+                "Sales Strategy",
+                "Team Leadership"
+            ]
+        },
+        {
+            "Job Title": "Account Executive",
+            "Key Skills": [
+                "Client Relations",
+                "Sales Presentations",
+                "Closing Deals",
+                "Prospecting",
+                "Pipeline Management"
+            ]
+        },
+        {
+            "Job Title": "Sales Representative",
+            "Key Skills": [
+                "Cold Calling",
+                "Product Knowledge",
+                "Customer Needs Analysis",
+                "Territory Management",
+                "Communication"
+            ]
+        }
+    ],
+    "CONSULTANT": [
+        {
+            "Job Title": "Business Consultant",
+            "Key Skills": [
+                "Strategic Planning",
+                "Process Improvement",
+                "Data Analysis",
+                "Project Management",
+                "Stakeholder Engagement"
+            ]
+        },
+        {
+            "Job Title": "IT Consultant",
+            "Key Skills": [
+                "System Integration",
+                "Cloud Computing",
+                "Cybersecurity",
+                "Technical Support",
+                "Solution Design"
+            ]
+        },
+        {
+            "Job Title": "Management Consultant",
+            "Key Skills": [
+                "Change Management",
+                "Organizational Development",
+                "Performance Metrics",
+                "Client Communication",
+                "Problem Solving"
+            ]
+        }
+    ],
+    "FINANCE": [
+        {
+            "Job Title": "Financial Analyst",
+            "Key Skills": [
+                "Financial Modeling",
+                "Excel",
+                "Forecasting",
+                "Budgeting",
+                "Data Analysis",
+                "Reporting"
+            ]
+        },
+        {
+            "Job Title": "Accountant",
+            "Key Skills": [
+                "Tax Preparation",
+                "Auditing",
+                "Bookkeeping",
+                "Financial Reporting",
+                "Compliance"
+            ]
+        },
+        {
+            "Job Title": "Investment Banker",
+            "Key Skills": [
+                "Mergers & Acquisitions",
+                "Valuation",
+                "Financial Markets",
+                "Risk Management",
+                "Client Relations"
+            ]
+        }
+    ],
+    "PUBLIC-RELATIONS": [
+        {
+            "Job Title": "PR Specialist",
+            "Key Skills": [
+                "Media Relations",
+                "Press Releases",
+                "Event Planning",
+                "Social Media",
+                "Crisis Management"
+            ]
+        },
+        {
+            "Job Title": "Communications Manager",
+            "Key Skills": [
+                "Content Creation",
+                "Brand Management",
+                "Internal Communications",
+                "Public Speaking",
+                "Campaign Management"
+            ]
+        },
+        {
+            "Job Title": "Social Media Coordinator",
+            "Key Skills": [
+                "Content Scheduling",
+                "Analytics",
+                "Engagement",
+                "SEO",
+                "Graphic Design"
+            ]
+        }
+    ]
+}
