@@ -15,20 +15,15 @@ RUN apt-get update && \
     apt-get clean && \
     rm -rf /var/lib/apt/lists/*
 
-# Set working directory
-WORKDIR /app
 
 # Copy both projects
 COPY cv-recommendations-server ./server
-COPY cv-recommendations-dashboard ./dashboard
+#COPY cv-recommendations-dashboard ./dashboard
 
 # Install Python dependencies
 RUN pip install --no-cache-dir -r server/requirements.txt
 
-# Install Node.js dependencies and build Next.js
-RUN cd dashboard && \
-    npm install && \
-    npm run build
+
 
 # Configure supervisor
 COPY supervisord.conf /etc/supervisor/conf.d/supervisord.conf
